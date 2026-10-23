@@ -1,0 +1,16 @@
+font.family : "serif"
+mathtext.fontset : "cm"
+text.usetex : False
+legend.frameon : False
+axes.spines.top : False
+axes.spines.right : False
+axes.spines.left : True
+axes.spines.bottom : True
+
+axes.titlesize : 14
+axes.labelsize : 14
+xtick.labelsize : 12
+ytick.labelsize : 12
+legend.fontsize : 12
+figure.titlesize : 16
+
